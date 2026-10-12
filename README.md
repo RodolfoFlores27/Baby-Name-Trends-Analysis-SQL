@@ -33,6 +33,8 @@ These adjustments allowed the regional analyses to use more consistent geographi
 - **Conditional logic:** Used `CASE` expressions to classify years into decades and standardize region labels.
 - **Filtering and percentages:** Applied `WHERE`, `HAVING`, and filtered aggregates to identify names and calculate state-level percentages.
 
+CTEs were deliberately not used. Not to disregard them, but to expose myself and improve my skill on building nested queries.
+
 ## Dataset
 
 The project uses two tables:
